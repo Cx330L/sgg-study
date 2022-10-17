@@ -1,0 +1,13 @@
+server:
+  port: 10011
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.25.111:3306/test?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: liujunbo
+  jpa:
+    hibernate:
+      ddl-auto: update # 自动更新
+    show-sql: true  # 日志显示SQL语句

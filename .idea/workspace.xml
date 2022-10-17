@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7294449-f6e7-46f6-b5d6-42710495dce8" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\env\mvn_repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../env/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\env\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2ElIiNmSjCo7ViVeDmBErbNFMzw" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;OpenJDK1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project/Java/sgg-study/jpa-demo&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f43efd91aedc4be025b313acba34dbd6&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JpaDemoApplicationTests.contextLoads">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.HelloWorld" />
+      <module name="distributed-lock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaDemoApplicationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jpademo.JpaDemoApplicationTests" />
+      <module name="jpa-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jpademo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jpademo.domain.User" />
+      <module name="jpa-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jpademo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaDemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jpa-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jpademo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.jpademo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.jpademo.JpaDemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributedLockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="distributed-lock" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.distributed.lock.DistributedLockApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.distributed.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jpa-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.jpademo.JpaDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JpaDemoApplicationTests.contextLoads" />
+        <item itemvalue="应用程序.User" />
+        <item itemvalue="应用程序.JpaDemoApplicationTests" />
+        <item itemvalue="Spring Boot.DistributedLockApplication" />
+        <item itemvalue="应用程序.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b7294449-f6e7-46f6-b5d6-42710495dce8" name="变更" comment="" />
+      <created>1663163873072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663163873072</updated>
+      <workItem from="1663163874422" duration="1715000" />
+      <workItem from="1663575666595" duration="2473000" />
+      <workItem from="1664267534867" duration="1064000" />
+      <workItem from="1664274147987" duration="674000" />
+      <workItem from="1665826887554" duration="1236000" />
+      <workItem from="1665828273817" duration="465000" />
+      <workItem from="1665836930947" duration="637000" />
+      <workItem from="1665837580010" duration="273000" />
+      <workItem from="1665837863578" duration="27000" />
+      <workItem from="1665837909072" duration="12727000" />
+      <workItem from="1665850695498" duration="266000" />
+      <workItem from="1665850974270" duration="5652000" />
+      <workItem from="1665973147916" duration="1388000" />
+      <workItem from="1665975582294" duration="46000" />
+      <workItem from="1665981071984" duration="1098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
